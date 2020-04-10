@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "com.simplemaple.service/1.0.0": {
+        "dependencies": {
+          "com.simplemaple.service.contracts": "1.0.0"
+        },
+        "runtime": {
+          "com.simplemaple.service.dll": {}
+        }
+      },
+      "com.simplemaple.service.contracts/1.0.0": {
+        "dependencies": {
+          "com.simplemaple.shared": "1.0.0"
+        },
+        "runtime": {
+          "com.simplemaple.service.contracts.dll": {}
+        }
+      },
+      "com.simplemaple.shared/1.0.0": {
+        "runtime": {
+          "com.simplemaple.shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "com.simplemaple.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "com.simplemaple.service.contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "com.simplemaple.shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\project\github\simplemaple\com.simplemaple.service.contracts\bin\Debug\netcoreapp3.0\com.simplemaple.service.contracts.deps.json
+D:\project\github\simplemaple\com.simplemaple.service.contracts\bin\Debug\netcoreapp3.0\com.simplemaple.service.contracts.dll
+D:\project\github\simplemaple\com.simplemaple.service.contracts\bin\Debug\netcoreapp3.0\com.simplemaple.service.contracts.pdb
+D:\project\github\simplemaple\com.simplemaple.service.contracts\obj\Debug\netcoreapp3.0\com.simplemaple.service.contracts.csprojAssemblyReference.cache
+D:\project\github\simplemaple\com.simplemaple.service.contracts\obj\Debug\netcoreapp3.0\com.simplemaple.service.contracts.AssemblyInfoInputs.cache
+D:\project\github\simplemaple\com.simplemaple.service.contracts\obj\Debug\netcoreapp3.0\com.simplemaple.service.contracts.AssemblyInfo.cs
+D:\project\github\simplemaple\com.simplemaple.service.contracts\obj\Debug\netcoreapp3.0\com.simplemaple.service.contracts.dll
+D:\project\github\simplemaple\com.simplemaple.service.contracts\obj\Debug\netcoreapp3.0\com.simplemaple.service.contracts.pdb
+D:\project\github\simplemaple\com.simplemaple.service.contracts\bin\Debug\netcoreapp3.0\com.simplemaple.shared.dll
+D:\project\github\simplemaple\com.simplemaple.service.contracts\bin\Debug\netcoreapp3.0\com.simplemaple.shared.pdb
+D:\project\github\simplemaple\com.simplemaple.service.contracts\obj\Debug\netcoreapp3.0\com.simplemaple.service.contracts.csproj.CopyComplete

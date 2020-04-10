@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "com.simplemaple.shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/com.simplemaple.shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/com.simplemaple.shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "com.simplemaple.shared/1.0.0": {
+      "type": "project",
+      "path": "../com.simplemaple.shared/com.simplemaple.shared.csproj",
+      "msbuildProject": "../com.simplemaple.shared/com.simplemaple.shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "com.simplemaple.shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jrome.KD-20170524NKKW\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\project\\github\\simplemaple\\com.simplemaple.service.contracts\\com.simplemaple.service.contracts.csproj",
+      "projectName": "com.simplemaple.service.contracts",
+      "projectPath": "D:\\project\\github\\simplemaple\\com.simplemaple.service.contracts\\com.simplemaple.service.contracts.csproj",
+      "packagesPath": "C:\\Users\\Jrome.KD-20170524NKKW\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\github\\simplemaple\\com.simplemaple.service.contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Jrome.KD-20170524NKKW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\project\\github\\simplemaple\\com.simplemaple.shared\\com.simplemaple.shared.csproj": {
+              "projectPath": "D:\\project\\github\\simplemaple\\com.simplemaple.shared\\com.simplemaple.shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

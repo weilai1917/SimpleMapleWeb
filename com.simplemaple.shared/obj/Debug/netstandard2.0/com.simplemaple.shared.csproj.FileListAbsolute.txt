@@ -1,0 +1,8 @@
+D:\project\github\simplemaple\com.simplemaple.shared\bin\Debug\netstandard2.0\com.simplemaple.shared.deps.json
+D:\project\github\simplemaple\com.simplemaple.shared\bin\Debug\netstandard2.0\com.simplemaple.shared.dll
+D:\project\github\simplemaple\com.simplemaple.shared\bin\Debug\netstandard2.0\com.simplemaple.shared.pdb
+D:\project\github\simplemaple\com.simplemaple.shared\obj\Debug\netstandard2.0\com.simplemaple.shared.csprojAssemblyReference.cache
+D:\project\github\simplemaple\com.simplemaple.shared\obj\Debug\netstandard2.0\com.simplemaple.shared.AssemblyInfoInputs.cache
+D:\project\github\simplemaple\com.simplemaple.shared\obj\Debug\netstandard2.0\com.simplemaple.shared.AssemblyInfo.cs
+D:\project\github\simplemaple\com.simplemaple.shared\obj\Debug\netstandard2.0\com.simplemaple.shared.dll
+D:\project\github\simplemaple\com.simplemaple.shared\obj\Debug\netstandard2.0\com.simplemaple.shared.pdb

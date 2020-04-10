@@ -1,0 +1,7 @@
+D:\project\github\simplemaple\com.simplemaple.domain\bin\Debug\netcoreapp3.0\com.simplemaple.domain.deps.json
+D:\project\github\simplemaple\com.simplemaple.domain\bin\Debug\netcoreapp3.0\com.simplemaple.domain.dll
+D:\project\github\simplemaple\com.simplemaple.domain\bin\Debug\netcoreapp3.0\com.simplemaple.domain.pdb
+D:\project\github\simplemaple\com.simplemaple.domain\obj\Debug\netcoreapp3.0\com.simplemaple.domain.AssemblyInfoInputs.cache
+D:\project\github\simplemaple\com.simplemaple.domain\obj\Debug\netcoreapp3.0\com.simplemaple.domain.AssemblyInfo.cs
+D:\project\github\simplemaple\com.simplemaple.domain\obj\Debug\netcoreapp3.0\com.simplemaple.domain.dll
+D:\project\github\simplemaple\com.simplemaple.domain\obj\Debug\netcoreapp3.0\com.simplemaple.domain.pdb
